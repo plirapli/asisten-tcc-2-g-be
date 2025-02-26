@@ -10,10 +10,10 @@ async function getUser(req, res) {
   }
 }
 
-export { getUser };
-
 // POST
 
 // PUT/PATCH
 
 // DELETE
+
+export { getUser };
